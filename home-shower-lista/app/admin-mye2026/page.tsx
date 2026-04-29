@@ -144,7 +144,14 @@ export default function AdminPage() {
                 <div>
                   <p className="font-semibold">{item.nombre}</p>
                   <p className="text-sm text-gray-500">
-                    {item.regalado ? "Regalado" : "Disponible"}
+                    {item.regalado ? (
+  <>
+    <p>Regalado por: {item.regalado_por}</p>
+    <p>Mensaje: {item.mensaje || "-"}</p>
+  </>
+) : (
+  "Disponible"
+)}
                   </p>
                 </div>
 

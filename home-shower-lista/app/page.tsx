@@ -123,7 +123,7 @@ cargarRegalos();
                   <img
                     src={gift.foto_url}
                     alt={gift.nombre}
-                    className="h-56 w-full object-cover"
+                    className="h-56 w-full object-contain bg-white p-4"
                   />
 
                   <div className="p-5">
@@ -144,7 +144,8 @@ className="mt-5 w-full rounded-full bg-[#8b735c] px-5 py-3 text-white transition
                 </div>
               ))}
             </div>
-          )}
+          )}npm run dev
+
         </div>
       </section>
     </main>

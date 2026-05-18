@@ -77,7 +77,7 @@ cargarRegalos();
         </p>
 
         <div className="mb-8 rounded-2xl bg-white/70 px-6 py-5 shadow-sm">
-          <p className="font-medium">Sábado 02/05 · 3:00 p. m.</p>
+          <p className="font-medium">Domingo 24/05 · 2:00 p. m.</p>
           <p className="mt-2 text-sm text-[#6f5d4d]">
             Av. Del Pacífico 175, Condominio Parques de la Huaca, San Miguel
           </p>
@@ -144,7 +144,7 @@ className="mt-5 w-full rounded-full bg-[#8b735c] px-5 py-3 text-white transition
                 </div>
               ))}
             </div>
-          )}npm run dev
+          )}
 
         </div>
       </section>

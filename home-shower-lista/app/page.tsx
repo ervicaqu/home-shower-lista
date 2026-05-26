@@ -69,7 +69,7 @@ cargarRegalos();
         </p>
 
         <h1 className="mb-4 text-4xl font-semibold md:text-6xl">
-          María & Erick
+          Madeleine & Erick
         </h1>
 
         <p className="mb-6 max-w-xl text-lg text-[#6f5d4d]">
@@ -77,7 +77,7 @@ cargarRegalos();
         </p>
 
         <div className="mb-8 rounded-2xl bg-white/70 px-6 py-5 shadow-sm">
-          <p className="font-medium">Domingo 24/05 · 2:00 p. m.</p>
+          <p className="font-medium">Mayo 2026</p>
           <p className="mt-2 text-sm text-[#6f5d4d]">
             Av. Del Pacífico 175, Condominio Parques de la Huaca, San Miguel
           </p>

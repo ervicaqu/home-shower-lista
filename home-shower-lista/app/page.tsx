@@ -77,7 +77,7 @@ cargarRegalos();
         </p>
 
         <div className="mb-8 rounded-2xl bg-white/70 px-6 py-5 shadow-sm">
-          <p className="font-medium">Mayo 2026</p>
+          <p className="font-medium">06 DE JUNIO, 2026</p>
           <p className="mt-2 text-sm text-[#6f5d4d]">
             Av. Del Pacífico 175, Condominio Parques de la Huaca, San Miguel
           </p>
